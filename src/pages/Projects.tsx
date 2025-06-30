@@ -5,7 +5,7 @@ const Projects = () => {
   const featuredProject = {
     title: "E-Commerce Platform",
     description: "We make beauty shopping effortless with a seamless online store, ensuring fast, hassle-free purchases and quick delivery.",
-    image: "public/images/1.PNG",
+    image: "https://porfolio-khaki-iota.vercel.app/images/1.PNG",
     technologies: ["Shopify", "PHP", "MySQL"],
     liveUrl: "https://aesthacosmetics.com/",
     githubUrl: "https://github.com/bsky960920"
@@ -15,7 +15,7 @@ const Projects = () => {
     {
       title: "Sakeai",
       description: "Sakeai is a review service that lets you discover new sake",
-      image: "public/images/2.PNG",
+      image: "https://porfolio-khaki-iota.vercel.app/images/2.PNG",
       technologies: ["Vue.js", "Express", "PostgreSQL"],
       icon: <Globe className="h-6 w-6" />,
       liveUrl: "https://www.sakeai.com/",
@@ -24,7 +24,7 @@ const Projects = () => {
     {
       title: "Social food healthy",
       description: "A comprehensive food healthy platform for food managers with data visualization and automated reporting.",
-      image: "public/images/3.PNG",
+      image: "https://porfolio-khaki-iota.vercel.app/images/3.PNG",
       technologies: ["React", "Node.js", "Express", "MongoDB"],
       icon: <Database className="h-6 w-6" />,
       liveUrl: "https://yumeya.life/",
@@ -33,7 +33,7 @@ const Projects = () => {
     {
       title: "Real Estate Platform",
       description: "A modern real estate platform with property listings, virtual tours, mortgage calculator, and agent management system.",
-      image: "public/images/4.PNG",
+      image: "https://porfolio-khaki-iota.vercel.app/images/4.PNG",
       technologies: ["Next.js", "Prisma", "PostgreSQL", "Mapbox"],
       icon: <Monitor className="h-6 w-6" />,
       liveUrl: "https://www.drivedge.com/",
@@ -42,7 +42,7 @@ const Projects = () => {
     {
       title: "Follow us @slatemilk",
       description: "Who said healthy meant sacrificing taste? Our drinks are packed with protein and have 0g added sugar, all while being unbelievably delicious.",
-      image: "public/images/5.PNG",
+      image: "https://porfolio-khaki-iota.vercel.app/images/5.PNG",
       technologies: ["React Native", "Node.js", "MongoDB", "Socket.io"],
       icon: <Zap className="h-6 w-6" />,
       liveUrl: "https://slatemilk.com/",
@@ -51,7 +51,7 @@ const Projects = () => {
     {
       title: "WE BUILD, MAINTAIN  & MARKET WEBSITE",
       description: "An educational platform with course creation, student progress tracking, interactive quizzes, and video streaming.",
-      image: "public/images/6.PNG",
+      image: "https://porfolio-khaki-iota.vercel.app/images/6.PNG",
       technologies: ["WordPress", "PHP", "MySQL"],
       icon: <Code className="h-6 w-6" />,
       liveUrl: "https://quartrback.com/",
@@ -60,7 +60,7 @@ const Projects = () => {
     {
       title: "Restaurant Management System",
       description: "A complete restaurant solution with online ordering, table reservations, inventory management, and staff scheduling.",
-      image: "public/images/7.PNG",
+      image: "https://porfolio-khaki-iota.vercel.app/images/7.PNG",
       technologies: ["Laravel", "MySQL", "Stripe"],
       icon: <Globe className="h-6 w-6" />,
       liveUrl: "https://twl.com.au/",
